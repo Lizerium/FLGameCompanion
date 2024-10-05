@@ -1,0 +1,119 @@
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\Freelancer Companion by Dormammu.exe.config
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\Freelancer Companion by Dormammu.exe
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\Freelancer Companion by Dormammu.pdb
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.csproj.AssemblyReference.cache
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.csproj.SuggestedBindingRedirects.cache
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer_Companion_by_Dormammu.FreelancerCompanionDvurechensky.resources
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer_Companion_by_Dormammu.Properties.Resources.resources
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.csproj.GenerateResource.cache
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.csproj.CoreCompileInputs.cache
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.exe
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.pdb
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.exe.config
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Templates\template.baml
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu_MarkupCompile.cache
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.g.resources
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\Microsoft.Win32.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\netstandard.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.AppContext.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Collections.Concurrent.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Collections.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Collections.NonGeneric.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Collections.Specialized.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.ComponentModel.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.ComponentModel.EventBasedAsync.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.ComponentModel.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.ComponentModel.TypeConverter.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Console.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Data.Common.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.Contracts.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.Debug.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.FileVersionInfo.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.Process.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.StackTrace.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.Tools.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.TraceSource.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Diagnostics.Tracing.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Drawing.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Dynamic.Runtime.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Globalization.Calendars.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Globalization.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Globalization.Extensions.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.Compression.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.Compression.ZipFile.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.FileSystem.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.FileSystem.DriveInfo.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.FileSystem.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.FileSystem.Watcher.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.IsolatedStorage.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.MemoryMappedFiles.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.Pipes.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.IO.UnmanagedMemoryStream.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Linq.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Linq.Expressions.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Linq.Parallel.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Linq.Queryable.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.Http.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.NameResolution.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.NetworkInformation.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.Ping.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.Requests.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.Security.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.Sockets.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.WebHeaderCollection.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.WebSockets.Client.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Net.WebSockets.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.ObjectModel.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Reflection.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Reflection.Extensions.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Reflection.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Resources.Reader.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Resources.ResourceManager.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Resources.Writer.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.Extensions.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.Handles.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.InteropServices.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.Numerics.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.Serialization.Formatters.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.Serialization.Json.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.Serialization.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Runtime.Serialization.Xml.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.Claims.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.Cryptography.Algorithms.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.Cryptography.Csp.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.Cryptography.Encoding.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.Cryptography.Primitives.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.Cryptography.X509Certificates.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.Principal.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Security.SecureString.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Text.Encoding.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Text.Encoding.Extensions.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Text.RegularExpressions.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Threading.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Threading.Overlapped.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Threading.Tasks.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Threading.Tasks.Parallel.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Threading.Thread.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Threading.ThreadPool.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Threading.Timer.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.ValueTuple.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Xml.ReaderWriter.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Xml.XDocument.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Xml.XmlDocument.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Xml.XmlSerializer.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Xml.XPath.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\System.Xml.XPath.XDocument.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\GraphX.Standard.Common.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\GraphX.Standard.Logic.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\GraphX.WPF.Controls.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\QuickGraph.dll
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\GraphX.Standard.Common.pdb
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\GraphX.Standard.Logic.pdb
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\bin\Release\GraphX.WPF.Controls.pdb
+G:\FREELANCER-COMPANION-BY-DORMAMMU\Freelancer Companion by Dormammu\obj\Release\Freelancer Companion by Dormammu.csproj.CopyComplete
