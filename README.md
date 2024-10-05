@@ -18,6 +18,7 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <a href="https://sites.google.com/view/dvurechensky"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
     </p>
+</p>
 
 # Помощник игры Freelancer Rebirth
 > Version 2.0. Работает стабильно на моде Freelancer Rebirth 7.7
