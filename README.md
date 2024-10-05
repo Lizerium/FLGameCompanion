@@ -17,16 +17,6 @@
     <a href="https://sites.google.com/view/dvurechensky"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-# Помощник игры Freelancer Rebirth
-> Version 2.0. Работает стабильно на моде Freelancer Rebirth 7.7
-
-- Сайт нашего проекта [Freelancer Rebirth](http://freelancerothe.ucoz.ru/)
-## <g-emoji class="g-emoji" alias="crystal_ball" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52e.png">🔮</g-emoji> Возможности
-
-1. Показывает в системах: Все порталы, контейнеры, базы
-2. Строит и визуализирует маршрут от системы до системы.
-3. Может найти местоположение предметов в контейнерах и в астероидных полях.
-
 ## <g-emoji class="g-emoji" alias="crystal_ball" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52e.png">🔮</g-emoji> Требования
 - Visual Studio 2022
 - Положить в корень приложения папки **SYSTEMS**, **ASTEROIDS**, файлы **universe.ini**, **loadouts.ini**
