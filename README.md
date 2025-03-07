@@ -1,3 +1,4 @@
+<p align="center">✨Dvurechensky✨</p>
 <p align="center">
     <img src="Resources/gitPreviews.png" width="100%" alt="Banner">
 </p>
@@ -7,14 +8,6 @@
 <p align="center">
     <a href="https://sites.google.com/view/dvurechensky" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Dvurechensky-N-blue"></a>
     <img src="https://img.shields.io/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
-</p>
-<!-- Social icons section -->
-<p align="center">
-    <a href="https://www.youtube.com/@DvurechenskyMedia"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.gg/d4TAqs8j" alt="Discord" title="Dvurechensky Pro"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://sites.google.com/view/dvurechensky"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 # Помощник игры Freelancer Rebirth
@@ -47,3 +40,4 @@
 <p align="center">
     <img src="Resources/view.gif" height="500" width="800">
 </p>
+<p align="center">✨Dvurechensky✨</p>
