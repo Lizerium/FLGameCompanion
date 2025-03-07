@@ -1,4 +1,3 @@
-<p align="center">✨Dvurechensky✨</p>
 <p align="center">
     <img src="Resources/gitPreviews.png" width="100%" alt="Banner">
 </p>
