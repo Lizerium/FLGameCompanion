@@ -5,8 +5,8 @@
     <a href="http://freelancerothe.ucoz.ru/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF000000&width=435&lines=%D0%98%D0%BD%D0%BE%D0%B3%D0%B4%D0%B0+%D1%81%D0%BC%D1%8B%D1%81%D0%BB+%D0%B8%D0%B3%D1%80%D1%8B+%D0%B2+%D1%87%D0%B8%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%B5+%3A)" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://sites.google.com/view/dvurechensky" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Dvurechensky-N-blue"></a>
-    <img src="https://img.shields.io/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
+    <a href="https://sites.google.com/view/dvurechensky" target="_blank"><img alt="Static Badge" src="https://shields.dvurechensky.pro/badge/Dvurechensky-N-blue"></a>
+    <img src="https://shields.dvurechensky.pro/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
 </p>
 
 # Помощник игры Freelancer Rebirth
