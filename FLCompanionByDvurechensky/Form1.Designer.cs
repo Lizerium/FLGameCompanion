@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 27 ноября 2025 06:52:04
- * Version: 1.0.121
+ * Last Updated: 28 ноября 2025 09:08:31
+ * Version: 1.0.122
  */
 
 namespace FLCompanionByDvurechensky
