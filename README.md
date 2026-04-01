@@ -12,6 +12,13 @@
     <img src="https://shields.dvurechensky.pro/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
 </p>
 
+> [!NOTE]
+> Этот проект является частью экосистемы **Lizerium** и относится к направлению:
+>
+> * [`Lizerium.Software.Structs`](https://github.com/Lizerium/Lizerium.Software.Structs)
+>
+> Если вы ищете связанные инженерные и вспомогательные инструменты, начните оттуда.
+
 # ✨ Оглавление
 
 - [✨ Оглавление](#-оглавление)
