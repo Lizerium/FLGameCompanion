@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 20 августа 2026 09:36:11
- * Version: 1.0.391
+ * Last Updated: 21 августа 2026 06:52:09
+ * Version: 1.0.392
  */
 
 using GraphX.Controls;
